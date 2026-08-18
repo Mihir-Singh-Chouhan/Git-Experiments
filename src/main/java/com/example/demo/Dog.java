@@ -6,6 +6,6 @@ import org.springframework.stereotype.Component;
 public class Dog {
 
     String bark(){
-        return "The dog is Braking";
+        return "woh woh";
     }
 }
